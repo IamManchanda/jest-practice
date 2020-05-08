@@ -1,0 +1,15 @@
+{
+  "name": "jest-practice",
+  "version": "0.0.1",
+  "description": "Jest practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
